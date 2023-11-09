@@ -1,0 +1,909 @@
+1685824378118	geckodriver	INFO	Listening on 127.0.0.1:52423
+1685824381172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofileYoYAOr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685824381449	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685824381455	Marionette	INFO	Listening on port 52436
+Read port: 52436
+WebDriver BiDi listening on ws://127.0.0.1:52424
+1685824381556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52424/devtools/browser/12d76839-368e-4949-a4dd-026b8644585b
+[Child 6824, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6824, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6824, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6824, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6824, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent:[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1548, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685825605143	Marionette	INFO	Stopped listening on port 52539
+Dynamically enable window occlusion 1
+1685826587957	geckodriver	INFO	Listening on 127.0.0.1:53620
+1685826591033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofilexhQQXd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685826591657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685826591666	Marionette	INFO	Listening on port 53631
+Read port: 53631
+WebDriver BiDi listening on ws://127.0.0.1:53621
+1685826591885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53621/devtools/browser/60e4b5af-cbf8-4b47-bf37-45f3c506e6f3
+[Child 12092, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12092, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12092, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12092, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12092, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not [Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8852, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685827767921	Marionette	INFO	Stopped listening on port 53940
+Dynamically enable window occlusion 1
+7
+[Child 5004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685827152760	Marionette	INFO	Stopped listening on port 54233
+Dynamically enable window occlusion 1
+1685827207395	geckodriver	INFO	Listening on 127.0.0.1:54306
+1685827210481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofilelDhsf6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685827210781	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685827210785	Marionette	INFO	Listening on port 54316
+Read port: 54316
+WebDriver BiDi listening on ws://127.0.0.1:54307
+1685827210898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54307/devtools/browser/2488658a-b3b7-4747-b76e-840592ece4a1
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685827224501	Marionette	INFO	Stopped listening on port 54316
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1685827266724	geckodriver	INFO	Listening on 127.0.0.1:54418
+1685827269792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofile8ZwbO1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685827270121	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685827270127	Marionette	INFO	Listening on port 54428
+WebDriver BiDi listening on ws://127.0.0.1:54419
+Read port: 54428
+1685827270378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54419/devtools/browser/d89a0b09-789d-4ec0-b730-fc5d50f4197c
+[Child 6624, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6624, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6624, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6624, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6624, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent:[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 5720, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685827774279	Marionette	INFO	Stopped listening on port 54742
+Dynamically enable window occlusion 1
+1685828656541	geckodriver	INFO	Listening on 127.0.0.1:55567
+1685828659606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofileoygbC2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685828659952	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685828659956	Marionette	INFO	Listening on port 55577
+WebDriver BiDi listening on ws://127.0.0.1:55568
+Read port: 55577
+1685828660089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55568/devtools/browser/f1279580-ac43-4cca-965c-8c1c8c8ee9d4
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13868, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685829970841	Marionette	INFO	Stopped listening on port 55577
+Dynamically enable window occlusion 1
+.
+1685828727577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685828727581	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11032, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685828783242	Marionette	INFO	Stopped listening on port 55688
+Dynamically enable window occlusion 1
+1685828823906	geckodriver	INFO	Listening on 127.0.0.1:55823
+1685828826968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofilei1TDmV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685828827261	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685828827266	Marionette	INFO	Listening on port 55833
+Read port: 55833
+WebDriver BiDi listening on ws://127.0.0.1:55824
+1685828827384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55824/devtools/browser/98b29fe5-b1fd-4de7-b496-24cf4bcdc566
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3912, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685829973659	Marionette	INFO	Stopped listening on port 55833
+Dynamically enable window occlusion 1
+ractive'.
+1685828891094	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685828891101	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685828940653	Marionette	INFO	Stopped listening on port 55942
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IOUtils: Shutting down and refusing additional I/O tasks", (void 0), 890))
+JavaScript error: resource://gre/modules/CrashManager.sys.mjs, line 927: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1685829038617	geckodriver	INFO	Listening on 127.0.0.1:56098
+1685829041648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofileLMEhVq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685829041947	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685829041952	Marionette	INFO	Listening on port 56108
+Read port: 56108
+WebDriver BiDi listening on ws://127.0.0.1:56099
+1685829042067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56099/devtools/browser/c3fe6657-2221-462f-af1c-99bed3d201e9
+[Child 6500, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6500, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6500, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6500, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6500, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent:[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12444, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685829980650	Marionette	INFO	Stopped listening on port 56591
+Dynamically enable window occlusion 1
+d 3524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3524, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685829966905	Marionette	INFO	Stopped listening on port 56817
+Dynamically enable window occlusion 1
+1685830155974	geckodriver	INFO	Listening on 127.0.0.1:56975
+1685830159024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofilec6tmgX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685830159351	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685830159356	Marionette	INFO	Listening on port 56987
+WebDriver BiDi listening on ws://127.0.0.1:56976
+Read port: 56987
+1685830159570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56976/devtools/browser/77e9b821-a1c7-4540-9e74-3d3709c1c5b0
+1685835325064	geckodriver	INFO	Listening on 127.0.0.1:50131
+1685835328135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofilevqoFxm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685835328596	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685835328603	Marionette	INFO	Listening on port 50139
+Read port: 50139
+WebDriver BiDi listening on ws://127.0.0.1:50132
+1685835328760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50132/devtools/browser/49a29e68-621a-4def-ad3a-89b6d745edb4
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13332, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685835335077	Marionette	INFO	Stopped listening on port 50139
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1685836692440	geckodriver	INFO	Listening on 127.0.0.1:50995
+1685836695512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\princ\\AppData\\Local\\Temp\\rust_mozprofileDfkzNl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685836695840	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685836695844	Marionette	INFO	Listening on port 51004
+WebDriver BiDi listening on ws://127.0.0.1:50996
+Read port: 51004
+1685836696102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50996/devtools/browser/6c6f2350-0e8f-4edf-8475-4a41c38443c6
+1685836701776	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701781	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701807	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701812	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701821	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836701827	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702478	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702492	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702499	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702505	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702510	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702514	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702519	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702524	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836702528	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703131	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703137	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703141	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703145	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703154	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703159	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703169	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703174	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703961	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703965	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703985	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836703995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836704001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685836704005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685836735983	Marionette	INFO	Stopped listening on port 51004
+Dynamically enable window occlusion 1
+1685884292847	geckodriver	INFO	Listening on 127.0.0.1:50864
+1685884295889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileT6hv1i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685884296608	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685884296618	Marionette	INFO	Listening on port 50877
+Read port: 50877
+WebDriver BiDi listening on ws://127.0.0.1:50865
+1685884296967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50865/devtools/browser/2ba32fb1-05b6-4185-80d0-59c7153bfe3a
+1685884301013	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301020	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301042	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301050	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301055	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301062	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301068	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301073	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301079	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884301085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685884381842	geckodriver	INFO	Listening on 127.0.0.1:50945
+1685884384942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofilelFOwpM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685884385512	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685884385521	Marionette	INFO	Listening on port 50955
+Read port: 50955
+WebDriver BiDi listening on ws://127.0.0.1:50946
+1685884385788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50946/devtools/browser/982d36b0-9f17-4798-8a35-60e3a5fd459e
+1685884390718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390724	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390730	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390739	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390746	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390753	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390762	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390767	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884390771	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685884660494	geckodriver	INFO	Listening on 127.0.0.1:51038
+1685884663564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileLlDF5Y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685884664284	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685884664294	Marionette	INFO	Listening on port 51048
+Read port: 51048
+WebDriver BiDi listening on ws://127.0.0.1:51039
+1685884664493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51039/devtools/browser/4ec4fa5b-fdf5-4ccc-91fd-6ca0dd29e6bc
+1685884667928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667937	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667943	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667949	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667956	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667961	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667973	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667986	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884667991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685884755294	geckodriver	INFO	Listening on 127.0.0.1:51108
+1685884758337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileyEULVY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685884758935	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685884758944	Marionette	INFO	Listening on port 51116
+Read port: 51116
+WebDriver BiDi listening on ws://127.0.0.1:51109
+1685884759108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51109/devtools/browser/75e55019-2720-4949-b052-3f47afea9224
+JavaScript error: https://rio.cdn.chegg.com/digital-data-rio-wrapper/ddrw-v2.11.16.js, line 2: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.39.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1685884794822	geckodriver	INFO	Listening on 127.0.0.1:51191
+1685884797870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileHfXAoB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685884798472	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685884798480	Marionette	INFO	Listening on port 51201
+Read port: 51201
+WebDriver BiDi listening on ws://127.0.0.1:51192
+1685884798652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51192/devtools/browser/164c52e8-fe5c-49ee-8d3a-d072b2b82821
+1685884802167	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802182	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802189	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802198	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802205	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802224	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802229	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884802235	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685884867688	geckodriver	INFO	Listening on 127.0.0.1:51261
+1685884870742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofile5I2L4a"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685884871268	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685884871275	Marionette	INFO	Listening on port 51270
+Read port: 51270
+WebDriver BiDi listening on ws://127.0.0.1:51262
+1685884871473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51262/devtools/browser/37557c3a-6c1a-4c6a-acba-d7d8e2730662
+1685884874488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874497	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874513	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874518	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874537	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874544	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884874554	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685884904885	geckodriver	INFO	Listening on 127.0.0.1:51327
+1685884907950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileS8mc8z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685884908475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685884908482	Marionette	INFO	Listening on port 51337
+Read port: 51337
+WebDriver BiDi listening on ws://127.0.0.1:51328
+1685884908686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51328/devtools/browser/004bed90-c99a-4965-a9cf-58f6278b2d77
+1685884912331	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912353	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912362	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912369	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912377	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912384	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912391	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912398	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685884912404	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885071162	geckodriver	INFO	Listening on 127.0.0.1:51416
+1685885074242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofile846fVj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885074810	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885074817	Marionette	INFO	Listening on port 51425
+Read port: 51425
+WebDriver BiDi listening on ws://127.0.0.1:51417
+1685885074997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51417/devtools/browser/deceae42-d14e-44e1-8eb2-37cbc04eaacb
+1685885078190	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078196	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078207	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078213	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078220	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078226	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078233	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078238	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078243	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885078249	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885089296	geckodriver	INFO	Listening on 127.0.0.1:51468
+1685885092387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileO9PwJY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885093038	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885093045	Marionette	INFO	Listening on port 51478
+Read port: 51478
+WebDriver BiDi listening on ws://127.0.0.1:51469
+1685885093266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51469/devtools/browser/15ba57a1-05ea-4d65-8bc8-9891e9c06c04
+1685885096272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096283	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096291	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096299	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096314	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096327	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096338	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885096343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885178844	geckodriver	INFO	Listening on 127.0.0.1:51542
+1685885181907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileUH5chq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885182437	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885182443	Marionette	INFO	Listening on port 51551
+Read port: 51551
+WebDriver BiDi listening on ws://127.0.0.1:51543
+1685885182614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51543/devtools/browser/f5900df8-5d42-4a23-a88d-5d8dc294be0e
+1685885185745	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185755	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185764	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185773	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185780	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185790	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185797	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185806	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185813	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885185831	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885258457	geckodriver	INFO	Listening on 127.0.0.1:51611
+1685885261547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileqSsZ23"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885262117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885262125	Marionette	INFO	Listening on port 51621
+Read port: 51621
+WebDriver BiDi listening on ws://127.0.0.1:51612
+1685885262366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51612/devtools/browser/1d21707b-1f36-4a02-9816-8e54c39fbafa
+1685885265486	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265495	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265501	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265509	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265517	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265527	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265534	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265542	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885265561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885297172	geckodriver	INFO	Listening on 127.0.0.1:51670
+1685885300231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofilenE9ZNC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885300748	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885300754	Marionette	INFO	Listening on port 51680
+Read port: 51680
+WebDriver BiDi listening on ws://127.0.0.1:51671
+1685885300935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51671/devtools/browser/409c7c2b-8f06-421d-b58a-ada1a3de434e
+1685885304349	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304360	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304377	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304391	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304399	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304405	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304413	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885304429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885391656	geckodriver	INFO	Listening on 127.0.0.1:51747
+1685885394734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofilejeEnND"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885395358	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885395365	Marionette	INFO	Listening on port 51759
+Read port: 51759
+WebDriver BiDi listening on ws://127.0.0.1:51748
+1685885395554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51748/devtools/browser/68bfd611-52df-4153-99dc-421fc1890f87
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://client.perimeterx.net/PXzYvFOXaC/main.min.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885432620	geckodriver	INFO	Listening on 127.0.0.1:51887
+1685885435692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileQSlrQM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885436183	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885436190	Marionette	INFO	Listening on port 51897
+Read port: 51897
+WebDriver BiDi listening on ws://127.0.0.1:51888
+1685885436360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51888/devtools/browser/2ac525dd-74f4-4cd3-8d48-a7c6a6238739
+1685885439531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439537	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439543	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439550	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439559	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439568	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439574	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439583	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685885439588	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.chegg.com/zYvFOXaC/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885537747	geckodriver	INFO	Listening on 127.0.0.1:51960
+1685885540835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileRJpQxH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885541433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885541441	Marionette	INFO	Listening on port 51973
+Read port: 51973
+WebDriver BiDi listening on ws://127.0.0.1:51961
+1685885541624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51961/devtools/browser/dcd8c8cf-0008-48f2-8e26-43885c7bbe49
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://client.perimeterx.net/PXzYvFOXaC/main.min.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685885669530	geckodriver	INFO	Listening on 127.0.0.1:52127
+1685885672616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileHeJcf6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685885673184	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685885673193	Marionette	INFO	Listening on port 52136
+Read port: 52136
+WebDriver BiDi listening on ws://127.0.0.1:52128
+1685885673394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52128/devtools/browser/ee8eed74-11fc-4e6f-bad2-e1fa2e9f3de5
+JavaScript warning: https://client.perimeterx.net/PXzYvFOXaC/main.min.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685894583098	geckodriver	INFO	Listening on 127.0.0.1:53474
+1685894586201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileNK6jjY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685894587100	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685894587111	Marionette	INFO	Listening on port 53483
+Read port: 53483
+WebDriver BiDi listening on ws://127.0.0.1:53475
+1685894587506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53475/devtools/browser/47f0fd72-cce5-43e4-a4ae-c6e7440718b4
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://client.perimeterx.net/PXzYvFOXaC/main.min.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685895260447	geckodriver	INFO	Listening on 127.0.0.1:53886
+1685895263558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kumbh\\AppData\\Local\\Temp\\rust_mozprofileZNwcim"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685895264422	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685895264433	Marionette	INFO	Listening on port 53896
+Read port: 53896
+WebDriver BiDi listening on ws://127.0.0.1:53887
+1685895264698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53887/devtools/browser/08d60455-cc50-4be9-8606-01fbde9bc210
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://client.perimeterx.net/PXzYvFOXaC/main.min.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699498215027	geckodriver	INFO	Listening on 127.0.0.1:51203
+1699498221570	geckodriver	INFO	Listening on 127.0.0.1:51215
+1699498239253	geckodriver	INFO	Listening on 127.0.0.1:51229
+1699498467724	geckodriver	INFO	Listening on 127.0.0.1:51545
